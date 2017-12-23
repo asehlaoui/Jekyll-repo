@@ -1,0 +1,6 @@
+name: Ayoub Sehlaoui
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+highlighter: pygments.rb # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
